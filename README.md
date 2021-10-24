@@ -1,58 +1,56 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
+<br>
 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- CHANGE THE LINKS AS PER YOUR REQUIREMENTS -->
+<!-- YOU CAN REFER TO DEFAULT README PAGE FOR REFERENCE -->
+<!-- COLOR OF THE BADGES CAN ALSO BE MODIFIED BY ALTERING THE LINKS -->
 
+![](https://img.shields.io/badge/Excitement-High-red)
+![](https://img.shields.io/badge/Maintained-Yes-indigo)
+![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
+![](https://img.shields.io/github/forks/natumtoken/Pomodoro)
+![](https://img.shields.io/github/contributors/natumtoken/Pomodoro)
+![](https://img.shields.io/github/issues/natumtoken/Pomodoro)
+![](https://img.shields.io/github/stars/natumtoken/Pomodoro)
+
+![](https://img.shields.io/badge/Contributions-Accepting-pink)
+![](https://img.shields.io/github/license/github_usernane/github_repo)
+[![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.example.com)
+
+<br>
 
 
 <!-- PROJECT LOGO -->
+
 <br />
-<div align="center">
+<p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://avatars.githubusercontent.com/u/93063807?s=400&u=e5e149de356d271cd97bddafb8adca1af6f1df70&v=4" alt="Logo" width="80" height="80">
+    <img src="preview/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+  <h3 align="center">Natum Token</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+     <a href="https://github.com/natumtoken/Pomodoro"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/natumtoken/Pomodoro/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/natumtoken/Pomodoro/issues">Request Feature</a>
   </p>
-</div>
+</p>
 
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
+<details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -61,6 +59,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#live-demo">Live Demo</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -73,7 +72,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -82,149 +81,131 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot](https://avatars.githubusercontent.com/u/93063807?s=400&u=e5e149de356d271cd97bddafb8adca1af6f1df70&v=4)](https://avatars.githubusercontent.com/u/93063807?s=400&u=e5e149de356d271cd97bddafb8adca1af6f1df70&v=4)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+Natum is a cryptocurrency built on the Ethereum Network with a purpose which is to motivate people to focus on work by using the pomodoro method which is proven to be highly effective as the Human Mind can only focus for 25 mins and after that we tend to loose concentration. Thus Natum is meant to help you to stay focused
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+`natumtoken`, `pomodoro`, `@thrinayan`, `thrinayan123@gmail.com`, `natumtoken`
 
 
+### Technologies used 
+
+* []() HTML(Hyper Text Markup Language)
+* []() CSS(Cascading Style Sheets)
+* []() JS(Javascript)
+* []() Solidity(Smart Contracts for Cryptocurrency Token)
+
+
+
+<!-- LIVE DEMO -->
+
+## Live Demo
+
+Pomodoro App(https://thrinayan-pomodoro.netlify.app/)
+
+Crypto Token()
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a copy of the code follow this steps below 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Softwares and Websites needed
+* Visual Studio Code 
   ```sh
-  npm install npm@latest -g
+  https://code.visualstudio.com/
+  ```
+* Remix IDE(Ethereum Compiler and Smart Contracts)
+   ```sh
+  https://remix.ethereum.org/
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Install Live Server(HTML,CSS,JS)
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
    ```
-3. Install NPM packages
+2. Installl Solidity Packages
    ```sh
-   npm install
+   https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Pomodoro app can be used as a focus app and can also have different timings depending on people. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Cryptocurrency token can be used for these purposes 
+1) Staking(Short Term) - Natum follows the Proof-Of-Stake concept where users stake their coins(lock in for a certain period of time) and would be rewarded with a ROI. Currently staking 1 NTM token for one day brings about 60% returns. It benefits both parties as this supports blockchain development. This is not investment advice and profitability is minimal due to the fact that 90% of the coins in crypto follow this method of staking. There is no risk-free investment so this is only meant for people who are passionate about Cryptocurrency.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+2) Transactions - Natum is built on the ethereum blockchain and transactions are carried out in a span of 12 seconds, faster than any blockchain or crypto technologies. Transactions being carried out at such a great speed reflects the power of the blockchain and its capabilities 
+
+3) NFT marketplace - Whilst this has not been implemented, we are looking forward to implementing a NFT marketplace where users would be able to trade NTM tokens for NFTs.
+
+4) Decentralized Blockchain - Our decentralized blockchain is capable of de-fi tokens where developers would be able to implement smart contracts and applications. This allows anyone to implement a fully function application with our blockchain. 
+
+_For more examples, please refer to our  [Whitepaper](https://docs.google.com/document/d/11T2Lt0RA_CDY_1OzkLeb6IPSdaaLb07k3lWR6N0Vs2A/edit)_
+
+
+
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Issues
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+1. Unable to implement token within the pomodoro app as we are unsure of how to distribute our tokens currently.
+2. Have not carried out our Initial Coin Offering(ICO) to determine the price of each NTM token due to price fluctuations of the Ethereum Coin and currently waiting for a lower gas fee to make the coin publicly tradable on PancakeSwap and other liquidity pools 
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
+1. Contributions that would be of great help 
+- Distributing tokens seamlessly 
+- Implementing NFT marketplace within Pomodoro Website 
+2. How to contribute 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
 5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Thrinayan and Thuva - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+ [@thrinayan](https://github.com/thrinayan)  
+ [@thuva](https://github.com/thuva)
+ 
 
 
+Project Link: [https://github.com/natumtoken/Pomodoro](https://github.com/natumtoken/Pomodoro)
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 
 * []()
 * []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
