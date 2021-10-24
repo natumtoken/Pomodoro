@@ -29,7 +29,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="preview/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/93063807?s=400&u=e5e149de356d271cd97bddafb8adca1af6f1df70&v=4)](https://avatars.githubusercontent.com/u/93063807?s=400&u=e5e149de356d271cd97bddafb8adca1af6f1df70&v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Natum Token</h3>
